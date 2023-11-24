@@ -60,5 +60,4 @@ class DeliveryTest {
                 .shouldHave(exactText("Встреча успешно запланирована на "+ secondMeetingDate))
                 .shouldBe(visible);
              }
-
 }
