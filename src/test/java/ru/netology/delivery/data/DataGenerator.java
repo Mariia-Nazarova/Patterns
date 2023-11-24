@@ -11,7 +11,6 @@ import java.util.Random;
 
 public class DataGenerator {
     private DataGenerator() {
-
     }
 
     public static String generateDate(int shift) {
